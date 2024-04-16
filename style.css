@@ -1,0 +1,75 @@
+body{
+    background-image: url("https://tse1.mm.bing.net/th?id=OIP.n_n6YYKF91mBsb8s0s6tfAHaEo&pid=Api&P=0&h=180");
+    background-repeat:no-repeat;
+  background-size: cover;
+}
+.spicy{
+  font-family:Verdana, Geneva, Tahoma, sans-serif;
+  font-size:55px;
+  color:solid black;
+}
+.list{
+  display:inline-block;
+  font-size:25px;
+  font-family:arial;
+  float: left;
+  position:relative;
+  padding-left:45px;
+  padding-right:45px;
+  text-align:center;
+  background-color:black;
+  color:white;
+  height:auto;
+  width:auto;
+  cursor:pointer;
+}
+table{
+  background-color:aqua;
+  color:black;
+  font-size: 25px;
+  font-weight: 600;
+  border:5px solid black;
+  border-radius:15px;
+  padding:5px;
+}
+.card{
+  box-shadow:0 4px 8px 0 rgba(0,0,0,0.2);
+  max-width:320px;
+  margin:auto;
+  text-align:center;
+}
+#cd1{
+  position:relative;
+  right:450px;
+  bottom:-45px;
+  border:5px solid black;
+  border-radius:10px;
+}
+#cd2{
+  position:relative;
+  right:10px;
+  bottom: 150px;
+  border:5px solid black;
+  border-radius:10px;
+}
+#cd3{
+  position:relative;
+  left:450px;
+  bottom:340px;
+  border:5px solid black;
+  border-radius:10px;
+}
+#starters{
+  height:250px;
+  width:100%;
+  background-color:azure;
+  font-size:20px;
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+#non-veg{
+  height:220px;
+  width:100%;
+  font-size:20px;
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background-color:plum;
+}
